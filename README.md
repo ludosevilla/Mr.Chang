@@ -1,6 +1,8 @@
 <table>
   <tr><td valign="top">
     <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/cover.png" width=1000" />
+    <br/>
+    
   </td>
 <td valign="top">
 # Mr. Chang
@@ -25,6 +27,9 @@ When every plate in the temple has been placed, the level is complete and you mo
 I hope you'll enjoy this little game!
 
 **Known issue:** the timing of the sound effects and the "music" (a rather generous term, since although I enjoy listening to music, I have absolutely no talent as a composer!) can occasionally be a bit erratic... 😄
+
+
+<img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/ado.png" width="1000" />
 
 ---
 
