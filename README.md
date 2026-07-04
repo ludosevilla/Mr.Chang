@@ -51,6 +51,9 @@ Une fois toutes les assiettes correctement placées sur un étage, Mr. Chang peu
 Lorsque toutes les assiettes du temple sont en place, le niveau est terminé et vous passez au suivant. Le jeu comporte **5 niveaux**.
 
 J'espère que ce petit jeu vous plaira !
+
+<img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/ordi.png" width="1000" />
+
 </td></tr></table>
 
 **Bug connu :** le rythme des effets sonores et de la « musique » (un bien grand mot, car si j'aime écouter de la musique, je n'ai absolument aucun talent de compositeur !) est parfois un peu capricieux... 😄
