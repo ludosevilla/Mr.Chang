@@ -2,6 +2,10 @@
   <tr><td valign="top">
     <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/cover.png" width=1000" />
     <br/>
+    <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/screen1.jpg" width=1000" />
+    <br/>
+    <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/screen2.jpg" width=1000" />
+    <br/>
     
   </td>
 <td valign="top">
@@ -52,8 +56,10 @@ Lorsque toutes les assiettes du temple sont en place, le niveau est terminé et 
 
 J'espère que ce petit jeu vous plaira !
 
-<img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/ordi.png" width="1000" />
+**Bug connu :** le rythme des effets sonores et de la « musique » (un bien grand mot, car si j'aime écouter de la musique, je n'ai absolument aucun talent de compositeur !) est parfois un peu capricieux... 😄
 
+<img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/ordi.png" width="1000" />
+<br/><br/>
 </td></tr></table>
 
-**Bug connu :** le rythme des effets sonores et de la « musique » (un bien grand mot, car si j'aime écouter de la musique, je n'ai absolument aucun talent de compositeur !) est parfois un peu capricieux... 😄
+
