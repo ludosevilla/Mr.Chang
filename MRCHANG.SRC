@@ -1,4 +1,4 @@
-// Mr. CHANG
+// Mr. CHANG V 1.1
 // Based on the MSX game "Mr. Chin" from HAL
 // Game for Micro-8 computer
 // Jean-arthur Silve 2026
@@ -167,7 +167,7 @@ twitchesparams witchesParams[5]={
 										};
 	
 	
-nat plateScore[5]={1000,200,300,400,500};
+nat plateScore[5]={100,200,300,400,500};
 nat bonusScore[5]={1000,2000,3000,4000,5000};
 
 bool plateCatched;
@@ -791,16 +791,18 @@ void playerGoD(byte n) {
 
 }
 void playerJump(byte direction) {
-	player.pathDir=direction; //0:none 1:left 2:right
-	player.pathList=&jumpC;
-	if (direction==1) { // To the left: start at array end
-		player.pathStep=(byte)#jumpC-1;
-	} else {
-		player.pathStep=0; 	
-		player.pathMax=(byte)#jumpC;
+	if (_isPlayerOnFl()) {
+		player.pathDir=direction; //0:none 1:left 2:right
+		player.pathList=&jumpC;
+		if (direction==1) { // To the left: start at array end
+			player.pathStep=(byte)#jumpC-1;
+		} else {
+			player.pathStep=0; 	
+			player.pathMax=(byte)#jumpC;
+		}
+		if (direction==0) sprRef(player.spId,16);
+		else sprRef(player.spId,4);
 	}
-	if (direction==0) sprRef(player.spId,16);
-	else sprRef(player.spId,4);
 }
 
 bool playerAnim() {
@@ -1494,14 +1496,14 @@ void displayInfos() {
 		hiscore=score;
 	curPos(70,2);
 	int2Txt(score,5);
-	print("52",i2t);
+	print("57",i2t);
 	
 	curPos(70,4);
 	int2Txt(hiscore,5);
-	print("52",i2t);
+	print("57",i2t);
 
 	curPos(70,6);
-	print("52",level+1);
+	print("57",level+1);
 	
 	curPos(70,8);
 	for(byte i;i<lives;i++)
@@ -1624,7 +1626,7 @@ byte showIntro(){
 		}
 	}
 	curPos(55,22);
-	print("a1.0");
+	print("a1.1");
 
 	synInit(0);
 	buffer="Based on the 1984 MSX game 'Mr Chin' from HAL";
