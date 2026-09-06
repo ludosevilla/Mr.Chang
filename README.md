@@ -35,6 +35,9 @@ I hope you'll enjoy this little game!
 
 <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/ado.png" width="1000" />
 
+Here’s a little video for those unlucky folks who don’t have a Micro-8 yet!
+
+<a href="[https://youtu.be/uNkIsexGKeI](https://youtu.be/MPg7_V_59B0)" target="_blank" rel="noopener noreferrer">See video</a>
 ---
 
 ## 🇫🇷 Français
@@ -60,6 +63,10 @@ J'espère que ce petit jeu vous plaira !
 
 <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/ordi.png" width="1000" />
 <br/><br/>
+Voici une vidéo pour ceux qui n'ont pas encore la chance d'avoir un Micro-8 !
+
+<a href="[https://youtu.be/uNkIsexGKeI](https://youtu.be/MPg7_V_59B0)" target="_blank" rel="noopener noreferrer">Voir la video</a>
+
 </td></tr></table>
 
 
