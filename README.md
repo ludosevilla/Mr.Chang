@@ -1,3 +1,5 @@
+# Mr. Chang
+
 <table>
   <tr><td valign="top">
     <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/cover.png" width=1000" />
@@ -8,7 +10,6 @@
     <br/>
   </td>
 <td valign="top">
-# Mr. Chang
 
 ## 🇬🇧 English
 
