@@ -8,6 +8,7 @@
     <br/>
     <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/screen2.jpg" width=1000" />
     <br/>
+    [See video](https://youtu.be/MPg7_V_59B0)
   </td>
 <td valign="top">
 
