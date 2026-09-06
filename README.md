@@ -32,12 +32,8 @@ I hope you'll enjoy this little game!
 
 **Known issue:** the timing of the sound effects and the "music" (a rather generous term, since although I enjoy listening to music, I have absolutely no talent as a composer!) can occasionally be a bit erratic... 😄
 
-
 <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/ado.png" width="1000" />
 
-Here’s a little video for those unlucky folks who don’t have a Micro-8 yet!
-
-<a href="[https://youtu.be/uNkIsexGKeI](https://youtu.be/MPg7_V_59B0)" target="_blank" rel="noopener noreferrer">See video</a>
 ---
 
 ## 🇫🇷 Français
