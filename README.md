@@ -7,7 +7,7 @@
     <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/screen1.jpg" width=1000" />
     <br/>
     <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/screen2.jpg" width=1000" />
-    <br/>
+    <br/><br/>
     <a href="https://youtu.be/MPg7_V_59B0" target="_blank">See video</a>
   </td>
 <td valign="top">
