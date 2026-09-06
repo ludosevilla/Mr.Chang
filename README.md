@@ -6,7 +6,6 @@
     <br/>
     <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/screen2.jpg" width=1000" />
     <br/>
-    
   </td>
 <td valign="top">
 # Mr. Chang
@@ -59,9 +58,6 @@ J'espère que ce petit jeu vous plaira !
 
 <img src="https://github.com/ludosevilla/Mr.Chang/blob/main/imgdoc/ordi.png" width="1000" />
 <br/><br/>
-Voici une vidéo pour ceux qui n'ont pas encore la chance d'avoir un Micro-8 !
-
-<a href="[https://youtu.be/uNkIsexGKeI](https://youtu.be/MPg7_V_59B0)" target="_blank" rel="noopener noreferrer">Voir la video</a>
 
 </td></tr></table>
 
